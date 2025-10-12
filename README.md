@@ -1,2 +1,3 @@
 # Psid2cpp
-Simple Converter
+Initial version of Simple Converter
+More info [https://proteuspl.blogspot.com/2025/10/zabawa-z-plikami-dzwiekowymi-z-c64.html]
