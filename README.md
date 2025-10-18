@@ -1,3 +1,4 @@
+![baner.jpg](baner_szeroki.jpg)
 # Psid2cpp
 Initial version of Simple Converter.<br>
 You might ask, who needs a program like this? I do ;).<br><br>
